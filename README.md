@@ -17,6 +17,7 @@ Each folder contains a focused project with:
 | #   | Project Folder               | Description                                      |
 |-----|------------------------------|--------------------------------------------------|
 | 01  | `01_dual_mcu_env_monitor`    | Arduino reads sensors and shares data with ESP32 via I2C; ESP32 serves readings over Bluetooth📡🌡️💧 |
+| 02  | `02_smart_stock_guard`       | ESP32 monitors stock prices via Alpha Vantage API, alerts user with RGB LED and buzzer when price drops 📈🔔 |
 
 ---
 
